@@ -23,7 +23,7 @@ def printSecretStatus():
     global usersList
     str1=""
     for item in usersList:
-        str1+="\n Имя: " + item['name'] + " Статус: " + item['status']
+        str1+="\n Имя: " + item['name'] + " Статус: " + item['state']
     return str1
     
 @bot.message_handler(content_types=['text'])
