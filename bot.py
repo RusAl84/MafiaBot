@@ -35,7 +35,6 @@ def get_text_messages(message):
         isDay=False
         s=printSecretStatus()
         bot.send_message(message.from_user.id, s)
-
     elif str(message.text).lower() == "/help":
         str1="MafiaBot - интеллектуальный Telegram бот ведущего для игру в Мафию.. \n Список команд: "\
             "\n /reg \"имя\" - Зарегистрироваться "\
@@ -48,11 +47,14 @@ def get_text_messages(message):
         isDay=True
         initData()
         bot.send_message(message.from_user.id, "Игра сброшена. Зарегистрируемся")
+    elif str(message.text).lower() == "/secretStatus":
+        s=printSecretStatus()
+        bot.send_message(message.from_user.id, s)
     elif splitted_text[0] == "/reg":
         isDay=True
         initData()
         splitted_text[1]
-        bot.send_message(message.from_user.id, "Введите своё имя:")
+        bot.send_message(message.from_user.id, "Сделайте ход")
     else:
         bot.send_message(message.from_user.id, helpStr)
 
