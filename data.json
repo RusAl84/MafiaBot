@@ -1,0 +1,199 @@
+[{
+        "brand": "Samsung",
+        "model": "Galaxy S21 FE 5G",
+        "cost": "54990",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.5",
+        "description": "Сенсорный экран; Gorilla Glass: Gorilla Glass Victus; Соотношение дисплей/корпус (%): 87; ОС: Android 11.0; Модель процессора: Samsung Exynos 2100; Графический процессор: ARM Mali-G78 MP14; ОЗУ (ГБ): 8; Тип ОЗУ: LPDDR5"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy Z Flip3 5G",
+        "cost": "84990",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.5",
+        "description": "Складной смартфон от компании Samsung, сделанный в форме старой доброй «раскладушки», только без физических кнопок, а с большим гибким дисплеем внутри."
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy Z Fold3 5G",
+        "cost": "144990",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.2",
+        "description": "Это, прежде всего, современный 6.2-дюймовый экран Dynamic AMOLED с разрешением 2268x832, возможности которого только удваиваются, когда вы раскрываете смартфон и складываете его в виде планшета."
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy A32",
+        "cost": "19990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.4",
+        "description": " Оснащен быстрым процессором и большим объемом памяти. Современный 8-ядерный процессор"
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy S20 FE",
+        "cost": "47990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Получил дисплей премиального качества с повышенной частотой обновления, что дарит ощущение отличной плавности работы интерфейса. Его диагональ считается большой, а разрешения 2400 на 1080 пикселей более чем достаточно для комфортного чтения даже мелкого текста."
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy A52",
+        "cost": "26990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Samsung не перестаёт покорять сердца пользователей и выпускает новый смартфон - Samsung Galaxy A52, продолжающий свой путь от легендарного бестселлера Galaxy 51. Такой же совершенный и такой же доступный, Samsung Galaxy A52 готов стать очередным вашим хитом."
+    },
+    {
+        "brand": "Samsung",
+        "model": "Galaxy A22s 5G",
+        "cost": "19990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Расширь границы доступного с 6.6-дюймовым экраном с V-образным вырезом. Благодаря технологии Full HD+, дисплей демонстрирует четкую и чистую картинку. Играй или листай, технология обновления экрана с частотой 90 Гц обеспечит плавный просмотр любого контента."
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 13",
+        "cost": "74460",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.8",
+        "description": "Рейтинг IP68 по стандарту IEC 60529 (допускается погружение в воду на глубину до 6 метров длительностью до 30 минут)"
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 11",
+        "cost": "52620",
+        "ram": "8Гб",
+        "mram": "4096",
+        "screen diagonal": "6.8",
+        "description": "Размеры: 75.7 x 150.9 x 8.3 мм, Вес: 194 г, SoC: Apple A13 Bionic APL1W85, Процессор: 2650 МГц, Оперативная память: 4 ГБ, Встроенная память: 64 ГБ"
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone 12",
+        "cost": "65500",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.8",
+        "description": "Операционная система iOS 14. Процессор Apple A14 Bionic ОЗУ 4 ГБ. Флеш-память 64, 128, 256 ГБ. Карта памяти не предусмотрена."
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone SE",
+        "cost": "38990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 58.6 x 123.8 x 7.6 мм Вес: 113 г SoC: Apple A9 APL0898. Процессор: Apple Twister, 1840 МГц, Количество ядер: 2."
+    },
+    {
+        "brand": "Apple",
+        "model": "iPhone XS MAX",
+        "cost": "59490",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 77.4 x 157.5 x 7.9 мм Вес: 208 г. SoC: Apple A12 Bionic APL1W81. Процессор: 2x 2.5 GHz Vortex, 4x 1.59 GHz Tempest, Количество ядер: 6."
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 11 ULTRA",
+        "cost": "79900",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.8",
+        "description": "Молниеносный смартфон класса Ультра. Здесь сверхмощная квадрокамера, изумительный HDR10+ дисплей и ультрабыстрый процессор. Модель получила влагозащиту IP68."
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 11 PRO",
+        "cost": "55790",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.8",
+        "description": "Имеет характерный для серии внешний, в этом нет ничего плохого, поскольку смартфон выглядит приятно. Корпус состоит из премиальных материалов, поэтому он очень приятно лежит в руке. С другой стороны, он весит больше 200 грамм, поэтому не всем понравится существенная тяжесть. Дизайн не очень практичный, так что придется пользоваться чехлом."
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 11 LITE",
+        "cost": "27899",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.5",
+        "description": "Экран AMOLED (1080 x 2400) Процессор Qualcomm Snapdragon 732G Передняя камера 15.93 Мп. Основная камера 64.22 Мп + 8 Мп + 5 Мп"
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 10S",
+        "cost": "25399",
+        "ram": "8Гб",
+        "mram": "8192",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 74.8 x 162.6 x 8.96 мм, Вес: 208 г, SoC: Qualcomm Snapdragon 870 (SM8250-AC), Процессор: 1x 3.2 GHz Cortex-A77, 3x 2.4 GHz Cortex-A77, 4x 1.8 GHz Cortex-A55, Графический процессор: Qualcomm Adreno 650, 587 МГц,"
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 10 ULTRA",
+        "cost": "27899",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 75.04 x 162.38 x 9.45 мм, Вес: 221 г, SoC: Qualcomm Snapdragon 865, Процессор: 1x 2.84 GHz Kryo 585, 3x 2.42 GHz Kryo 585, 4x 1.8 GHz Kryo 585, Графический процессор: Qualcomm Adreno 650, 587 МГц,"
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 9 PRO",
+        "cost": "41990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 74.64 x 157.21 x 8.54 мм, Вес: 196 г, SoC: Qualcomm Snapdragon 855 Plus, Процессор: 1x 2.96 GHz Kryo 485, 3x 2.42 GHz Kryo 485, 4x 1.8 GHz Kryo 485"
+    },
+    {
+        "brand": "XIAOMI",
+        "model": "MI 9 LITE",
+        "cost": "25399",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 74.5 x 156.8 x 8.67 мм Вес: 179 г SoC: Qualcomm Snapdragon 710 Процессор: 2x 2.2 GHz Kryo 360, 6x 1.7 GHz Kryo 360, Количество ядер: 8 Графический процессор: Qualcomm Adreno 616. 500 МГц"
+    },
+    {
+        "brand": "Nokia",
+        "model": "Nokia 3310",
+        "cost": "2285",
+        "ram": "16Мб",
+        "mram": "16",
+        "screen diagonal": "2.4",
+        "description": "Компактный, хотя довольно тяжёлый (133 г) аппарат с монохромным жидкокристаллическим дисплеем, поддерживающим разрешение 84 на 48 пикселей."
+    },
+    {
+        "brand": "ASUS",
+        "model": "ROG Phone",
+        "cost": "83010",
+        "ram": "16Гб",
+        "mram": "16384",
+        "screen diagonal": "6.4",
+        "description": "Уникальный смартфон с футуристическим дизайном, созданный специально для игр и киберспорта."
+    },
+    {
+        "brand": "Oppo",
+        "model": "A55",
+        "cost": "1990",
+        "ram": "4Гб",
+        "mram": "4096",
+        "screen diagonal": "6.5",
+        "description": "Размеры: 75.7 x 163.9 x 8.4 мм, Вес: 186 г, SoC: MediaTek Dimensity 700 (MT6833), Процессор: 2x 2.2 GHz ARM Cortex-A76. 6x 2.0 GHz ARM Cortex-A55, Графический процессор: ARM Mali-G57 MC2, 955 МГц"
+    }
+]
