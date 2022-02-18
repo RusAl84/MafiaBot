@@ -1,7 +1,31 @@
 [{
-        "state": "",
-        "model": "",
-        "track": ""
+        "id": "1",
+        "name": "Злата",
+        "state": "Mafia"
     },
-
+    {
+        "id": "2",
+        "name": "Катя",
+        "state": "Mafia"
+    },
+    {
+        "id": "3",
+        "name": "Носков",
+        "state": "citizen"
+    },
+    {
+        "id": "4",
+        "name": "Шахбоз",
+        "state": "Sherif"
+    },
+    {
+        "id": "5",
+        "name": "Шпак",
+        "state": "citizen"
+    },
+    {
+        "id": "6",
+        "name": "Миша",
+        "state": "citizen"
+    }
 ]
