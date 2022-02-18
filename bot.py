@@ -13,7 +13,7 @@ isDay=True
 
 def initData():
     global usersList
-    global qList
+    usersList=[]
     # fileObject = open ("data.json",  "r", encoding="UTF-8")
     # jsonContent = fileObject.read()
     # aList = json.loads(jsonContent)
@@ -22,13 +22,12 @@ def initData():
 @bot.message_handler(content_types=['text'])
 def get_text_messages(message):
     global isDay
-    global isNight
     helpStr="Привет, это проект MafiaBot - интеллектуальный Telegram бот ведущего для игру в Мафию. \n Для информации введите /help."
     splitted_text = str(message.text).lower().split()
     if isDay:
-        isDayost(int(splitted_text[0]), int(splitted_text[1]))
+
         isDay=False
-        isNight=True
+
         fd=False
         bot.send_message(message.from_user.id, "Введите :")
     elif isNight:
@@ -42,6 +41,7 @@ def get_text_messages(message):
     elif str(message.text).lower() == "/help":
         str1="MafiaBot - интеллектуальный Telegram бот ведущего для игру в Мафию.. \n Список команд: "\
             "\n /reg - Зарегистрироваться "\
+            "\n /reset - Начать игру заново "\
             "\n Для информации введите /help."
         bot.send_message(message.from_user.id, str1) 
     elif str(message.text).lower() == "/re":
